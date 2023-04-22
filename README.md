@@ -1,1 +1,2 @@
 # FIUCClasswork
+This is classwork involving the C language that I have currently finished for my systems programming class and for future classes that may use C. For the class I used PuTTY as my terminal and WinSCP for SFTP. I have overwritten the Makefile each time I zipped up my assignments to turn in so the Makefile will only be included for the most recent assignment I have finished. All code works unless otherwise stated.
