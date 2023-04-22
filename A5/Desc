@@ -1,0 +1,2 @@
+newshell.c is the main program to run in this group to see the working assignment. It will present you a menu of options using the other four programs until you enter
+8 which will exit the program. Newshell.c uses fork, pipe, dup2, and wait to accomplish running these other files.
