@@ -54,7 +54,6 @@ int main(int argc, char **argv) {
                 return(1);
         }
 	//assigning our inputted value to input
-	//THIS NEEDS FIXED!!!! AND THE FLAGS AREN'T WORKING CURRENTLY
 	input = atoi(argv[optind]);
 	uint16_t temp = input;
 
