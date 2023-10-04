@@ -32,7 +32,7 @@ void collatz(int input, int child){
 		
 	}
 	else if(input % 2 == 1){
-		//number was even
+		//number was odd
 		printf("child %d: %d\n",child,input);
 		collatz(input * 3 + 1,child);
 		
